@@ -4,3 +4,4 @@
 
 * Conferir links
 * Conferir texto
+* Add Google Analytics
