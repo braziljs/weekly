@@ -1,7 +1,3 @@
 # BrazilJS Weekly
 
-## Checklist de revisão
-
-* Conferir links
-* Conferir texto
-* Add Google Analytics
+Seleção semanal do que há de melhor no mundo JavaScript
