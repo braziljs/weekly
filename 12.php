@@ -217,21 +217,16 @@ Local: Rio de Janeiro/RJ<br>
           <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
             Acompanhe no <a href="http://www.facebook.com/braziljs" style="color:#4085CA;">Facebook</a>
           </p>
+
+          <?php include("form.php"); ?>
+
         </td>
       </tr>
     </table>
 
   </center>
-  <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-33656081-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+  <?php include("GA.php"); ?>
+
 </body>
 </html>
