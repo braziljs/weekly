@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <!-- Facebook sharing information tags -->
+    <meta property="og:title" content="BrazilJS Weekly #10">
+    <title>BrazilJS Weekly #10</title>
+
+<style type="text/css">
+    .title_content a,.header_news a{
+      font-weight:bold;
+      color:#1173C7;
+      font-size:15px;
+    }
+    .title_content{
+      font-size:14px;
+      margin-top:5px;
+      line-height:19px;
+      color:#333;
+    }
+</style></head>
+
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="0" style="background:#EEE; padding-top:50px;">
+
+  <center>
+
+    <table border="0" cellpadding="0" cellspacing="0" width="600" bgcolor="#FFFFFF" style="border:1px solid #DDD;">
+
+      <!-- Header -->
+      <tr>
+        <td bgcolor="#f5f5f5" style="padding:20px 30px;">
+          <a href="http://braziljs.org"><img src="http://braziljs.org/weekly/logo-braziljs.png" alt="BrazilJS - Logo"></a>
+        </td>
+        <td bgcolor="#f5f5f5" valign="bottom" style="padding:20px 30px; text-align:right; font:italic 20px Arial, Helvetica, sans-serif;">
+           <p style="font-size: 14px; color:#999;">Seleção semanal que reúne as novidades<br> sobre o desenvolvimento Web no Brasil</p>
+        </td>
+      </tr>
+
+      <!-- Intro -->
+      <tr>
+        <td colspan="2" style="padding:40px 30px 0 30px; font-family:Arial, Helvetica, sans-serif;">
+          <div mc:repeatable="repeat_1" class="item" mc:repeatindex="0" mc:hideable="hideable_repeat_1_1" mchideable="hideable_repeat_1_1">
+            <p class="header_news" style="font-size:14px; text-align: center; margin:0; padding:0 0 40px 0; line-height:170%; color:#444;"><span style="background-color: rgb(255, 255, 255); ">Sugira um artigo, biblioteca, evento, vaga</span><br style="background-color: rgb(255, 255, 255); ">
+<span style="background-color: rgb(255, 255, 255); ">ou qualquer outra coisa que voc&ecirc; gostaria que aparecesse por aqui :)</span><br style="background-color: rgb(255, 255, 255); ">
+<br style="background-color: rgb(255, 255, 255); ">
+<span style="background-color: rgb(255, 255, 255); font-size: 12px; "><a href="https://docs.google.com/spreadsheet/viewform?formkey=dDFFX3h3YkVpdV9mNnpYMzBvLXNaLUE6MQ" style="font-weight: bold; color: rgb(17, 115, 199); font-size: 15px; " target="_blank">Envie sua ideia agora!</a></span></p>
+
+          </div>
+        </td>
+      </tr>
+
+      <!-- Novidades -->
+      <tr>
+        <td colspan="2" style="padding:30px 30px 5px; text-align:center; font-family:Arial, Helvetica, sans-serif; border-top:2px solid #EEE;">
+          <table border="0" cellpadding="0" cellspacing="0" width="625">
+
+            <!-- Título da seção -->
+            <tr>
+              <td style="background:#FAFAFA; text-align: center; font-size:15px; color:#777; padding:8px; border:1px solid #EEE;">
+                <strong>Novidades</strong>
+              </td>
+            </tr>
+
+            <!-- Item da seção -->
+            <tr>
+              <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="625">
+                  <tr>
+                    <td style="text-align: left; padding: 20px 0 5px;;">
+                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="http://www.w3c.br/Noticias/UmResumoSobreAConferenciaWebbr2012" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Um resumo sobre a Confer&ecirc;ncia da W3C Brasil</a><br>
+A cidade de S&atilde;o Paulo foi sede da 4&ordf; Confer&ecirc;ncia Web.br, evento que gerou muitos debates em torno da Web, al&eacute;m de reunir as principais figuras que fazem a Web o que ela &eacute; hoje, no Brasil.&nbsp;Saiba como foi e fique por dentro das principais discuss&otilde;es que v&atilde;o nortear os rumos da Web em 2013.<br>
+<br>
+</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Título da seção -->
+            <tr>
+              <td style="background:#FAFAFA; text-align: center; font-size:15px; color:#777; padding:8px; border:1px solid #EEE;">
+                <strong>Artigos</strong>
+              </td>
+            </tr>
+
+            <!-- Item da seção -->
+            <tr>
+              <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="625">
+                  <tr>
+                    <td style="text-align: left; padding: 20px 0 5px;;">
+                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="http://felipenmoura.org/pt/articles/javascript/create-a-chromakey-with-javascript-webbr-2012-w3c/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Criando um Chromakey com JavaScript</a><br>
+Durante o Momento BrazilJS que rolou na Confer&ecirc;ncia da W3C, Felipe Moura fez um Live Coding abordando detalhes sobre getUserMedia na constru&ccedil;&atilde;o de um Chromakey com JavaScript, confira o artigo sobre o experimento e tamb&eacute;m brinque com ele <a href="http://felipenmoura.org/talks/chromakey/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">aqui</a>.<br>
+<br>
+<a href="http://javascriptbrasil.com/pre-processadores/introducao-ao-typescript" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Introdu&ccedil;&atilde;o ao TypeScript</a><br>
+A Microsoft surpreendeu muitos ao lan&ccedil;ar seu pr&oacute;prio pr&eacute;-processador de JavaScript chamado TypeScript. Muitos sa&iacute;ram comparando o TypeScript com CofeeScript chamando o TypeScript de &ldquo;CoffeeScript da Microsoft&rdquo;. Se investigarmos mais a fundo veremos que se trata de uma proposta diferente do CoffeeScript a come&ccedil;ar pela sintaxe.&nbsp;<br>
+<br>
+<a href="http://tableless.com.br/tunando-developer-tools-google-chrome/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Tunando o Developer Tools do Google Chrome</a><br>
+J&aacute; imaginou poder trocar o CSS da sua ferramenta de Inspecionar Elementos? Pois &eacute;, voc&ecirc; pode!<br>
+<br>
+</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- Título da seção -->
+            <tr>
+              <td style="background:#FAFAFA; text-align: center; font-size:15px; color:#777; padding:8px; border:1px solid #EEE;">
+                <strong>Eventos</strong>
+              </td>
+            </tr>
+
+            <!-- Item da seção -->
+            <tr>
+              <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="625">
+                  <tr>
+                    <td style="text-align: left; padding: 20px 0 5px;;">
+                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="http://frontinsampa.com.br/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Front in Sampa</a><a href="http://frontinsampa.com.br" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">&nbsp;- Desconto final</a><br>
+Falta uma semana para o evento que vai reunir os desenvolvedores de S&atilde;o Paulo! A grade do evento est&aacute; fechada, portanto n&atilde;o perca mais tempo e use o c&oacute;digo&nbsp;<strong>BRAZILJSFINAL</strong>&nbsp;que voc&ecirc; ganha 50 reais de desconto no ingresso.<br>
+<br>
+</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+
+            <!-- Título da seção -->
+            <tr>
+              <td style="background:#FAFAFA; text-align: center; font-size:15px; color:#777; padding:8px; border:1px solid #EEE;">
+                <strong>Bibliotecas &amp; Ferramentas</strong>
+              </td>
+            </tr>
+
+            <!-- Item da seção -->
+            <tr>
+              <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="625">
+                  <tr>
+                    <td style="text-align: left; padding: 20px 0 5px;;">
+                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="http://soulwire.github.com/Makisu/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Makisu - CSS 3D Dropdown</a><br>
+Um plugin jQuery que explora um conceito muito interessante de 3D. Abre a&iacute; que voc&ecirc; vai entender, &eacute; legal demais.<br>
+<br>
+<a href="http://labs.soyuz.com.br/gamew3c/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Game com GetUserMedia e WebAudioAPI</a><br>
+E mais um experimento super interessante usando getUserMedia saiu da Confer&ecirc;ncia da W3C! Criado pelo Soyuz, o game usa&nbsp;a detec&ccedil;&atilde;o de movimento proposta para controlar uma Asa Delta. Tamb&eacute;m foi &nbsp;usada a WebAudio API para fazer os efeitos de som est&eacute;reo, SVG para o mapa/asa e a biblioteca Crafty.js.&nbsp;O objetivo &eacute; que as pessoas possam se guiar pelo som para chegar no objetivo: dar check in na India, Fran&ccedil;a e Brasil, locais dos congressos mundiais da Web em 2011, 2012 e 2013.&nbsp;<br>
+<br>
+<a href="http://felipecsl.com/random-maze-generator/" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Gerador aleat&oacute;rio de labirintos</a><br>
+<div>
+  Exemplo que utiliza um grafo e um algoritmo de pesquisa depth-first para gerar um labirinto aleat&oacute;rio. Depois disso, &eacute; poss&iacute;vel encontrar o menor caminho que liga a entrada &agrave; sa&iacute;da do labirinto utilizando o algoritmo A Star.&nbsp;Tudo isso utilizando Javascript, jQuery, Underscore, Jasmine para tests unit&aacute;rios e canvas para renderizar o labirinto. Confira <a href="http://felipecsl.com/random-maze-generator/try.html" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">aqui</a>&nbsp;o resultado desse exemplo&nbsp;criado por Felipe Lima.<br>
+  &nbsp;</div>
+</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+
+            <!-- Título da seção -->
+            <tr>
+              <td style="background:#FAFAFA; text-align: center; font-size:15px; color:#777; padding:8px; border:1px solid #EEE;">
+                <strong>Vagas</strong>
+              </td>
+            </tr>
+
+            <!-- Item da seção -->
+            <tr>
+              <td>
+                <table border="0" cellpadding="0" cellspacing="0" width="625">
+                  <tr>
+                    <td style="text-align: left; padding: 20px 0 5px;;">
+                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="https://tas-yahoo.taleo.net/careersection/yahoo_global_cs/jobdetail.ftl?job=35114" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Software Engineer, Yahoo! Communications Experiences Team (S&atilde;o Paulo, SP)</a><br>
+Vaga no time brasileiro que desenvolve produtos globais da Yahoo! A equipe &eacute; inteiramente &aacute;gil e eles precisam de algu&eacute;m pra trabalhar em produtos com milh&otilde;es de usu&aacute;rios. As principais linguagens praticadas pela equipe s&atilde;o Javascript (tanto front-end, quanto NodeJS), e PHP, mas o time tem profissionais com skils variados.<br>
+<br>
+</div>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+          </table>
+        </td>
+      </tr>
+    </table>
+
+    <!-- Credits -->
+    <table border="0" cellpadding="0" cellspacing="0" width="600" style="margin-top:10px;">
+      <tr>
+        <td>
+          <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
+        Esquecemos de citar algo legal? Fale conosco: <a href="http://twitter.com/braziljs" style="color:#4085CA;">@braziljs</a>
+          </p>
+          <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
+            Siga no <a href="https://twitter.com/#!/braziljs" style="color:#4085CA;">Twitter</a>
+          </p>
+          <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
+            Acompanhe no <a href="http://www.facebook.com/braziljs" style="color:#4085CA;">Facebook</a>
+          </p>
+          <?php include("form.php"); ?>
+        </td>
+      </tr>
+    </table>
+
+  </center>
+
+  <?php include("GA.php"); ?>
+</body>
+</html>
