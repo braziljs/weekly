@@ -195,25 +195,7 @@ Ainda sobre jQuery, que tal um plugin para dar uma turbinada na navega&ccedil;&a
     </table>
 
     <!-- Credits -->
-    <table border="0" cellpadding="0" cellspacing="0" width="600" style="margin-top:10px;">
-      <tr>
-        <td>
-          <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
-        Esquecemos de citar algo legal? Fale conosco: <a href="http://twitter.com/braziljs" style="color:#4085CA;">@braziljs</a>
-          </p>
-          <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
-            Siga no <a href="https://twitter.com/#!/braziljs" style="color:#4085CA;">Twitter</a>
-          </p>
-          <p style="text-align:center; color:#666; font:12px Arial, Helvetica, sans-serif;">
-            Acompanhe no <a href="http://www.facebook.com/braziljs" style="color:#4085CA;">Facebook</a>
-          </p>
-          <?php include("form.php"); ?>
-        </td>
-      </tr>
-    </table>
-
-  </center>
-
-  <?php include("GA.php"); ?>
+    <?php include("footer.php"); ?>
+    
 </body>
 </html>
