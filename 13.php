@@ -184,7 +184,7 @@ Remote Control fornece uma maneira f&aacute;cil de controlar os slides de aprese
                 <table border="0" cellpadding="0" cellspacing="0" width="625">
                   <tr>
                     <td style="text-align: left; padding: 20px 0 5px;;">
-                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="http://www.grupoa.com.br/site/exatas-sociais-e-aplicadas/2/71/75/7348/7349/0/javascript.aspx" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Desconto para o livro &quot;JavaScript - O Guia Definitivo&quot;</a><br>
+                      <div class="title_content" style="font-size: 14px;margin-top: 5px;line-height: 19px;color: #333;"><a href="http://www.grupoa.com.br/site/exatas-sociais-e-aplicadas/2/71/75/7348/7349/0/javascript.aspx?utm_source=BrazilJS+Foundation&utm_campaign=17b7d76720-BrazilJS_Weekly_28_26_2012&utm_medium=email" target="_blank" style="font-weight: bold;color: #1173C7;font-size: 15px;">Desconto para o livro &quot;JavaScript - O Guia Definitivo&quot;</a><br>
 Em parceria com a bookman conseguimos um desconto de 15% para voc&ecirc;s na compra do livro, para comprar o livro <strong><em>JavaScript - O guia definitivo</em></strong> com esse desconto, basta usar o c&oacute;digo &nbsp;&quot;<strong>BrazilJS&quot;</strong>.<br>
 </div>
                       <br><br>
