@@ -1,6 +1,8 @@
-h2{ 
+h2{
   font: normal 22px "Helvetica Nue", Verdana, sans-serif;
   text-align: center;
+  font-weight: bold;
+  margin: 0;
 }
 
 #mc_embed_signup input[type="text"], input[type="email"] {
