@@ -4,7 +4,7 @@
 
 Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as melhores novidades sobre desenvolvimento web no Brasil.
 
-# Edições passadas
+## Edições passadas
 
 * [BrazilJS Weekly #20](http://braziljs.org/weekly/20.html) em 11/01/13
 * [BrazilJS Weekly #19](http://braziljs.org/weekly/19.html) em 04/01/13
@@ -27,6 +27,9 @@ Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as me
 * [BrazilJS Weekly #02](http://braziljs.org/weekly/02.html) em 31/08/12
 * [BrazilJS Weekly #01](http://braziljs.org/weekly/01.html) em 24/08/12
 
+## Envie sua ideia
+
+Sugira um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui. [Envie sua ideia agora](http://braziljs.org/services/add2weekly/).
 
 ## Quem está por trás disso?
 
