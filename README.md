@@ -6,6 +6,7 @@ Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as me
 
 ## Edições passadas
 
+* [BrazilJS Weekly #24](http://braziljs.org/weekly/24.html) em 08/02/13
 * [BrazilJS Weekly #23](http://braziljs.org/weekly/23.html) em 01/02/13
 * [BrazilJS Weekly #22](http://braziljs.org/weekly/22.html) em 25/01/13
 * [BrazilJS Weekly #21](http://braziljs.org/weekly/21.html) em 18/01/13
