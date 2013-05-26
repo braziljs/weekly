@@ -7,6 +7,7 @@
         $style = document.createElement('style'),
         $prevWeeklyLink = document.createElement('a'),
         $nextWeeklyLink = document.createElement('a'),
+        CSSText,
 
         // This returns the next and previous weekly number :D
         the = (function (param) {
@@ -55,7 +56,7 @@
     /**
         Create and Insert the CSS in the DOM
     **/
-    $style.innerHTML = ' \
+    CSSText = ' \
         .pagination-weekly { \
             position: absolute; \
             top: 50%; \
@@ -98,8 +99,18 @@
             content: "\\02C3"; \
             top: 6px; \
             left: 12px; \
-        } \
-    '.replace(/[\s]/g, '');
+        }'.replace(/[\s]/g, '');
+
+    // Add this attr to test IE support bellow
+    $style.type = 'text/css';
+
+    // If true, use the IE rules
+    if ($style.styleSheet) {
+        $style.styleSheet.cssText = CSSText;
+    } else {
+    // Add CSS text into style element in others browsers
+        $style.innerHTML = CSSText;
+    }
 
     $head.appendChild($style);
 }(document, window));
