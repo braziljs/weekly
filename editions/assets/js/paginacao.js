@@ -1,4 +1,7 @@
-(function(document, window, undefined) {
+(function (document, window, undefined) {
+
+    'use strict';
+
     var $body = document.getElementsByTagName('body')[0],
         $head = document.getElementsByTagName('head')[0],
         $style = document.createElement('style'),
@@ -8,13 +11,13 @@
         // This returns the next and previous weekly number :D
         the = (function (param) {
             // Return string numbers
-            var weeklyNumber = Math.ceil(document.location.pathname.replace(/[^\d]+/g, '')),
+            var weeklyNumber = Math.ceil(document.location.pathname.match(/([0-9]+)\.html/)[1]),
                 // if the param number is 9, returns 09
                 prependZero = function (num) {
-                    var num = (num < 0)? 0 : num;
+                    num = (num < 0) ? 0 : num;
 
                     if (num < 10) {
-                        num = '0'+num;
+                        num = '0' + num;
                     }
 
                     return num;
@@ -25,7 +28,7 @@
             return {
                 next: { url: prependZero(next) },
                 prev: { url: prependZero(prev) }
-            }
+            };
         }());
 
     // If something is wrong, stop here!
@@ -34,7 +37,7 @@
     }
 
     // Prepare the previous weekly link
-    $prevWeeklyLink.className = 'pagination-weekly pagination-weekly-prev n'+the.prev.url;
+    $prevWeeklyLink.className = 'pagination-weekly pagination-weekly-prev n' + the.prev.url;
     $prevWeeklyLink.innerText = 'Ver Weekly #' + the.prev.url;
     $prevWeeklyLink.title = 'Ver Weekly #' + the.prev.url;
     $prevWeeklyLink.href = the.prev.url + '.html';
@@ -96,7 +99,7 @@
             top: 6px; \
             left: 12px; \
         } \
-    '.replace(/\s]/g, '');
+    '.replace(/[\s]/g, '');
 
     $head.appendChild($style);
 }(document, window));
