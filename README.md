@@ -6,6 +6,8 @@ Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as me
 
 ## Edições passadas
 
+* [BrazilJS Weekly #41](http://braziljs.org/weekly/41.html) em 21/06/13
+* [BrazilJS Weekly #40](http://braziljs.org/weekly/40.html) em 14/06/13
 * [BrazilJS Weekly #39](http://braziljs.org/weekly/39.html) em 07/06/13
 * [BrazilJS Weekly #38](http://braziljs.org/weekly/38.html) em 31/05/13
 * [BrazilJS Weekly #37](http://braziljs.org/weekly/37.html) em 24/05/13
@@ -58,5 +60,10 @@ Toda comunidade que nos indica links preciosos e a BrazilJS Foundation com seu t
 
 * [Giovanni Keppelen](http://github.com/keppelen)
 * [Davidson Fellipe](http://github.com/davidsonfellipe)
+
+**Contribuidores
+
+* [Juarez P. A. Filho](https://github.com/juarezpaf)
+* [Ofelquis Gimenes](https://github.com/felquis)
 
 Agradecimento especial a todos os membros da comunidade por tantas contribuições.
