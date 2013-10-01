@@ -5,7 +5,7 @@
 Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as melhores novidades sobre desenvolvimento web no Brasil.
 
 ## Edições passadas
-
+* [BrazilJS Weekly #48](http://braziljs.org/weekly/48.html) em 13/09/13
 * [BrazilJS Weekly #47](http://braziljs.org/weekly/47.html) em 16/08/13
 * [BrazilJS Weekly #46](http://braziljs.org/weekly/46.html) em 09/08/13
 * [BrazilJS Weekly #45](http://braziljs.org/weekly/45.html) em 02/08/13
