@@ -17,7 +17,7 @@ Toda comunidade que nos indica links preciosos e a BrazilJS Foundation com seu t
 * [Giovanni Keppelen](http://github.com/keppelen)
 * [Davidson Fellipe](http://github.com/davidsonfellipe)
 
-**Contribuidores
+**Contribuidores**
 
 * [Juarez P. A. Filho](https://github.com/juarezpaf)
 * [Ofelquis Gimenes](https://github.com/felquis)
