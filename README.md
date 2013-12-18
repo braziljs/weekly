@@ -6,7 +6,7 @@ Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as me
 
 ## Envie sua ideia
 
-Sugira um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui. [Envie sua ideia agora](http://braziljs.org/services/add2weekly/).
+Sugira um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui. [Envie sua ideia agora](http://braziljs.github.io/add2weekly/).
 
 ## Quem está por trás disso?
 
