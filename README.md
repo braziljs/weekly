@@ -8,7 +8,11 @@ Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as me
 
 ## Envie sua ideia
 
-Sugira um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui. [Envie sua ideia agora](https://github.com/braziljs/weekly/issues).
+Gostaria de sugerir um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui?
+
+[Envie sua ideia agora](https://github.com/braziljs/weekly/issues).
+
+Para sugerir algo, basta acrescentar um comentário na issue que ainda estiver aberta e marcada com a label `campaign`.
 
 ## Quem está por trás disso?
 
