@@ -4,7 +4,7 @@
 
 Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as melhores novidades sobre desenvolvimento web no Brasil.
 
-> **Mantenedor:** [Jaydson Gomes](https://github.com/jaydson)
+> **Mantenedores:** [Jaydson Gomes](https://github.com/jaydson) e [Felipe Moura](https://github.com/felipenmoura)
 
 ## Envie sua ideia
 
