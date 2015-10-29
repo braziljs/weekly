@@ -6,6 +6,8 @@ Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as me
 
 > **Mantenedores:** [Jaydson Gomes](https://github.com/jaydson) e [Felipe Moura](https://github.com/felipenmoura)
 
+Assista também aos vídeos semanais no [canal da BrazilJS no youtube](https://www.youtube.com/playlist?list=PLg2lQYZDBwOQDXKxy9yeqXG5njHbSHFFD).
+
 ## Envie sua ideia
 
 Gostaria de sugerir um artigo, biblioteca, evento, vaga ou qualquer outra coisa que você gostaria que aparecesse por aqui?
