@@ -14,10 +14,10 @@ Gostaria de sugerir um artigo, biblioteca, evento, vaga ou qualquer outra coisa 
 
 [Envie sua ideia agora](https://github.com/braziljs/weekly/issues).
 
-Para confirmar se a sua sugestão já foi ou não sugerida em alguma issue, pesquise nas issues utilizando o padrão:
+Para confirmar se a sua sugestão já foi ou não sugerida em alguma issue anterior, pesquise nas issues utilizando o padrão:
 `is:issue termo`
 
-Onde "termo" é algum termo importante de suas sugestão.
+Onde "termo" é algum termo relevante de sua sugestão.
 
 Para sugerir algo, basta acrescentar um comentário na issue que ainda estiver aberta e marcada com a label `campaign`.
 
