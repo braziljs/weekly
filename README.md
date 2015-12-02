@@ -2,7 +2,7 @@
 
 ![Cover](http://braziljs.org/img/projects/weekly.jpg)
 
-Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as melhores novidades sobre desenvolvimento web no Brasil.
+Newsletter semanal da BrazilJS que reúne uma seleção semanal com as novidades da semana sobre desenvolvimento web no Brasil.  
 
 > **Mantenedores:** [Jaydson Gomes](https://github.com/jaydson) e [Felipe Moura](https://github.com/felipenmoura)
 
