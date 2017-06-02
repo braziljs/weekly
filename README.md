@@ -23,7 +23,7 @@ Para sugerir algo, basta acrescentar um comentário na issue que ainda estiver a
 
 ## Quem está por trás disso?
 
-Toda comunidade que nos indica links preciosos e a BrazilJS Foundation com seu trabalho de curadoria sobre esse conteúdo.
+Toda comunidade que nos indica links preciosos e a BrazilJS com seu trabalho de curadoria sobre esse conteúdo.
 
 **Antigos Contribuidores**
 
