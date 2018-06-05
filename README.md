@@ -1,6 +1,6 @@
 # BrazilJS Weekly
 
-![Cover](https://raw.githubusercontent.com/braziljs/weekly/master/assets/img/weekly-bg.png)
+![Cover](https://raw.githubusercontent.com/braziljs/weekly/master/weekly-bg.png)
 
 Newsletter semanal da BrazilJS que reúne uma seleção semanal com as novidades da semana sobre desenvolvimento web no Brasil.  
 
