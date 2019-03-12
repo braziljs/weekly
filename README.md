@@ -2,7 +2,7 @@
 
 ![Cover](https://raw.githubusercontent.com/braziljs/weekly/master/weekly-bg.png)
 
-Newsletter semanal da BrazilJS que reúne uma seleção semanal com as novidades da semana sobre desenvolvimento web no Brasil.  
+Newsletter da BrazilJS que reúne as novidades da semana sobre desenvolvimento web no Brasil e no mundo.  
 
 > **Mantenedores:** [Jaydson Gomes](https://github.com/jaydson) e [Felipe Moura](https://github.com/felipenmoura)
 
