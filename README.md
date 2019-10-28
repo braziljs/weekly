@@ -27,7 +27,7 @@ Toda comunidade que nos indica links preciosos e a BrazilJS com seu trabalho de 
 
 **Antigos Contribuidores**
 
-* [Aline Bastos](http://github.com/keppelen)
+* [Aline Bastos](http://github.com/alinebastos)
 * [Giovanni Keppelen](http://github.com/keppelen)
 * [Davidson Fellipe](http://github.com/davidsonfellipe)
 * [Juarez P. A. Filho](https://github.com/juarezpaf)
